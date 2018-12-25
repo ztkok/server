@@ -1,0 +1,44 @@
+{
+    "1": {
+        "id": 1, 
+        "bonusID": 3001697, 
+        "bonusNum": 1, 
+        "activityNum": 1
+    }, 
+    "2": {
+        "id": 2, 
+        "bonusID": 701041, 
+        "bonusNum": 1, 
+        "activityNum": 1
+    }, 
+    "3": {
+        "id": 3, 
+        "bonusID": 700023, 
+        "bonusNum": 1, 
+        "activityNum": 1
+    }, 
+    "4": {
+        "id": 4, 
+        "bonusID": 2203, 
+        "bonusNum": 800, 
+        "activityNum": 1
+    }, 
+    "5": {
+        "id": 5, 
+        "bonusID": 4010, 
+        "bonusNum": 1, 
+        "activityNum": 1
+    }, 
+    "6": {
+        "id": 6, 
+        "bonusID": 3001041, 
+        "bonusNum": 1, 
+        "activityNum": 1
+    }, 
+    "7": {
+        "id": 7, 
+        "bonusID": 28, 
+        "bonusNum": 1, 
+        "activityNum": 1
+    }
+}

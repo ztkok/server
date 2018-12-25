@@ -1,0 +1,44 @@
+{
+    "1": {
+        "times": 1, 
+        "length": 0, 
+        "infotxt": "在这里登记你的名字，战士", 
+        "cost": 0, 
+        "closeBtn": 0
+    }, 
+    "2": {
+        "times": 2, 
+        "length": 3, 
+        "infotxt": "你的名字在3天之内只能更改一次", 
+        "cost": 2000, 
+        "closeBtn": 1
+    }, 
+    "3": {
+        "times": 3, 
+        "length": 4, 
+        "infotxt": "你的名字在4天之内只能更改一次", 
+        "cost": 4000, 
+        "closeBtn": 1
+    }, 
+    "4": {
+        "times": 4, 
+        "length": 5, 
+        "infotxt": "你的名字在5天之内只能更改一次", 
+        "cost": 6000, 
+        "closeBtn": 1
+    }, 
+    "5": {
+        "times": 5, 
+        "length": 6, 
+        "infotxt": "你的名字在6天之内只能更改一次", 
+        "cost": 8000, 
+        "closeBtn": 1
+    }, 
+    "6": {
+        "times": 6, 
+        "length": 7, 
+        "infotxt": "你的名字在7天之内只能更改一次", 
+        "cost": 10000, 
+        "closeBtn": 1
+    }
+}

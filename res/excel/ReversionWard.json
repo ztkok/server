@@ -1,0 +1,9 @@
+{
+    "1": {
+        "id": 1, 
+        "bonusID": 12, 
+        "bonusNum": 1, 
+        "iosrewardVersion": "5.0.3", 
+        "androidrewardVersion": "5.0.3"
+    }
+}

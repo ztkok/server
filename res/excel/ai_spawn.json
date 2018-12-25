@@ -1,0 +1,245 @@
+{
+    "1": {
+        "id": 1, 
+        "label": "默认单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "2": {
+        "id": 2, 
+        "label": "默认双人", 
+        "vbase": 3.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 80
+    }, 
+    "4": {
+        "id": 4, 
+        "label": "默认四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "11": {
+        "id": 11, 
+        "label": "快速单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "12": {
+        "id": 12, 
+        "label": "快速双人", 
+        "vbase": 3.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "14": {
+        "id": 14, 
+        "label": "快速四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "21": {
+        "id": 21, 
+        "label": "英雄单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "22": {
+        "id": 22, 
+        "label": "英雄双人", 
+        "vbase": 3.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 80
+    }, 
+    "24": {
+        "id": 24, 
+        "label": "英雄四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "31": {
+        "id": 31, 
+        "label": "蛟龙单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "32": {
+        "id": 32, 
+        "label": "蛟龙双人", 
+        "vbase": 3.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "34": {
+        "id": 34, 
+        "label": "蛟龙四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "41": {
+        "id": 41, 
+        "label": "红蓝单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "42": {
+        "id": 42, 
+        "label": "红蓝双人", 
+        "vbase": 3.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "44": {
+        "id": 44, 
+        "label": "红蓝四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "111": {
+        "id": 111, 
+        "label": "大练兵单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 60, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 50
+    }, 
+    "112": {
+        "id": 112, 
+        "label": "大练兵双人", 
+        "vbase": 3.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 55
+    }, 
+    "114": {
+        "id": 114, 
+        "label": "大练兵四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.0, 
+        "vmax": 0.0, 
+        "N_ai_max": 0
+    }, 
+    "51": {
+        "id": 51, 
+        "label": "闪电突袭单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 0
+    }, 
+    "52": {
+        "id": 52, 
+        "label": "闪电突袭双人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 0
+    }, 
+    "54": {
+        "id": 54, 
+        "label": "闪电突袭四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 0
+    }, 
+    "61": {
+        "id": 61, 
+        "label": "钢铁风暴单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 0
+    }, 
+    "62": {
+        "id": 62, 
+        "label": "钢铁风暴双人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 0
+    }, 
+    "64": {
+        "id": 64, 
+        "label": "钢铁风暴四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 0
+    }, 
+    "71": {
+        "id": 71, 
+        "label": "2x2单人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }, 
+    "72": {
+        "id": 72, 
+        "label": "2x2双人", 
+        "vbase": 3.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.2, 
+        "vmax": 10.0, 
+        "N_ai_max": 80
+    }, 
+    "74": {
+        "id": 74, 
+        "label": "2x2四人", 
+        "vbase": 0.0, 
+        "timetobeginacc": 0, 
+        "vadd": 0.5, 
+        "vmax": 10.0, 
+        "N_ai_max": 75
+    }
+}

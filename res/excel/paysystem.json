@@ -1,0 +1,65 @@
+{
+    "1": {
+        "id": 1, 
+        "desc": "首充", 
+        "awards": "33;1|1047;1|1714;1", 
+        "condition": 1, 
+        "marketingType": 1
+    }, 
+    "2": {
+        "id": 2, 
+        "desc": "光荣补给每日奖励", 
+        "awards": "2202;60", 
+        "condition": 0, 
+        "marketingType": 2
+    }, 
+    "3": {
+        "id": 3, 
+        "desc": "光荣补给额外奖励", 
+        "awards": "2202;300|7002;1", 
+        "condition": 0, 
+        "marketingType": 2
+    }, 
+    "4": {
+        "id": 4, 
+        "desc": "首次充送", 
+        "awards": "2202;300", 
+        "condition": 30, 
+        "marketingType": 3
+    }, 
+    "5": {
+        "id": 5, 
+        "desc": "首次充送", 
+        "awards": "2202;680", 
+        "condition": 68, 
+        "marketingType": 3
+    }, 
+    "6": {
+        "id": 6, 
+        "desc": "首次充送", 
+        "awards": "2202;1280", 
+        "condition": 128, 
+        "marketingType": 3
+    }, 
+    "7": {
+        "id": 7, 
+        "desc": "首次充送", 
+        "awards": "2202;1980", 
+        "condition": 198, 
+        "marketingType": 3
+    }, 
+    "8": {
+        "id": 8, 
+        "desc": "首次充送", 
+        "awards": "2202;3280", 
+        "condition": 328, 
+        "marketingType": 3
+    }, 
+    "9": {
+        "id": 9, 
+        "desc": "首次充送", 
+        "awards": "2202;6480", 
+        "condition": 648, 
+        "marketingType": 3
+    }
+}

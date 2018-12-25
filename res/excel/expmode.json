@@ -1,0 +1,50 @@
+{
+    "0": {
+        "id": 0, 
+        "name": "普通模式", 
+        "value": 100, 
+        "valuenew": 60
+    }, 
+    "1": {
+        "id": 1, 
+        "name": "快速模式", 
+        "value": 100, 
+        "valuenew": 60
+    }, 
+    "2": {
+        "id": 2, 
+        "name": "英雄模式", 
+        "value": 100, 
+        "valuenew": 60
+    }, 
+    "3": {
+        "id": 3, 
+        "name": "蛟龙行动", 
+        "value": 100, 
+        "valuenew": 60
+    }, 
+    "4": {
+        "id": 4, 
+        "name": "红蓝对决", 
+        "value": 100, 
+        "valuenew": 60
+    }, 
+    "5": {
+        "id": 5, 
+        "name": "娱乐模式", 
+        "value": 35, 
+        "valuenew": 35
+    }, 
+    "6": {
+        "id": 6, 
+        "name": "坦克模式", 
+        "value": 50, 
+        "valuenew": 50
+    }, 
+    "11": {
+        "id": 11, 
+        "name": "联赛", 
+        "value": 100, 
+        "valuenew": 60
+    }
+}

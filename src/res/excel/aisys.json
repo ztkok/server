@@ -1,0 +1,16 @@
+{
+    "8": {
+        "id": 8, 
+        "label": "刷新AI里玩家的九宫距离最小值Dmin", 
+        "valuestring": "", 
+        "valueuint": 50, 
+        "valuefloat": 0.0
+    }, 
+    "9": {
+        "id": 9, 
+        "label": "刷新AI里玩家的九宫距离最小值Dmax", 
+        "valuestring": "", 
+        "valueuint": 150, 
+        "valuefloat": 0.0
+    }
+}

@@ -1,0 +1,5202 @@
+{
+    "1": {
+        "id": 1, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1673;1"
+    }, 
+    "2": {
+        "id": 2, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1673;1"
+    }, 
+    "3": {
+        "id": 3, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1673;1"
+    }, 
+    "4": {
+        "id": 4, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1673;1"
+    }, 
+    "5": {
+        "id": 5, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1673;1"
+    }, 
+    "6": {
+        "id": 6, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1673;1"
+    }, 
+    "7": {
+        "id": 7, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1673;1"
+    }, 
+    "8": {
+        "id": 8, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1673;1"
+    }, 
+    "9": {
+        "id": 9, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1673;1"
+    }, 
+    "10": {
+        "id": 10, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1673;1"
+    }, 
+    "11": {
+        "id": 11, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1673;1"
+    }, 
+    "12": {
+        "id": 12, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1673;1"
+    }, 
+    "13": {
+        "id": 13, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1673;1"
+    }, 
+    "14": {
+        "id": 14, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1673;1"
+    }, 
+    "15": {
+        "id": 15, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1673;1"
+    }, 
+    "16": {
+        "id": 16, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1673;1"
+    }, 
+    "17": {
+        "id": 17, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1673;1"
+    }, 
+    "18": {
+        "id": 18, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1673;1"
+    }, 
+    "19": {
+        "id": 19, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1673;1"
+    }, 
+    "20": {
+        "id": 20, 
+        "season": 1, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1673;1"
+    }, 
+    "21": {
+        "id": 21, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1674;1"
+    }, 
+    "22": {
+        "id": 22, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1674;1"
+    }, 
+    "23": {
+        "id": 23, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1674;1"
+    }, 
+    "24": {
+        "id": 24, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1674;1"
+    }, 
+    "25": {
+        "id": 25, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1674;1"
+    }, 
+    "26": {
+        "id": 26, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1674;1"
+    }, 
+    "27": {
+        "id": 27, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1674;1"
+    }, 
+    "28": {
+        "id": 28, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1674;1"
+    }, 
+    "29": {
+        "id": 29, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1674;1"
+    }, 
+    "30": {
+        "id": 30, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "31": {
+        "id": 31, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1674;1"
+    }, 
+    "32": {
+        "id": 32, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1674;1"
+    }, 
+    "33": {
+        "id": 33, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1674;1"
+    }, 
+    "34": {
+        "id": 34, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1674;1"
+    }, 
+    "35": {
+        "id": 35, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1674;1"
+    }, 
+    "36": {
+        "id": 36, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1674;1"
+    }, 
+    "37": {
+        "id": 37, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1674;1"
+    }, 
+    "38": {
+        "id": 38, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1674;1"
+    }, 
+    "39": {
+        "id": 39, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1674;1"
+    }, 
+    "40": {
+        "id": 40, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "41": {
+        "id": 41, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1674;1"
+    }, 
+    "42": {
+        "id": 42, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1674;1"
+    }, 
+    "43": {
+        "id": 43, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1674;1"
+    }, 
+    "44": {
+        "id": 44, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1674;1"
+    }, 
+    "45": {
+        "id": 45, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1674;1"
+    }, 
+    "46": {
+        "id": 46, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1674;1"
+    }, 
+    "47": {
+        "id": 47, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1674;1"
+    }, 
+    "48": {
+        "id": 48, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1674;1"
+    }, 
+    "49": {
+        "id": 49, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1674;1"
+    }, 
+    "50": {
+        "id": 50, 
+        "season": 2, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "51": {
+        "id": 51, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1674;1"
+    }, 
+    "52": {
+        "id": 52, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1674;1"
+    }, 
+    "53": {
+        "id": 53, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1674;1"
+    }, 
+    "54": {
+        "id": 54, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1674;1"
+    }, 
+    "55": {
+        "id": 55, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1674;1"
+    }, 
+    "56": {
+        "id": 56, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1674;1"
+    }, 
+    "57": {
+        "id": 57, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1674;1"
+    }, 
+    "58": {
+        "id": 58, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1674;1"
+    }, 
+    "59": {
+        "id": 59, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1674;1"
+    }, 
+    "60": {
+        "id": 60, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "61": {
+        "id": 61, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1674;1"
+    }, 
+    "62": {
+        "id": 62, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1674;1"
+    }, 
+    "63": {
+        "id": 63, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1674;1"
+    }, 
+    "64": {
+        "id": 64, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1674;1"
+    }, 
+    "65": {
+        "id": 65, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1674;1"
+    }, 
+    "66": {
+        "id": 66, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1674;1"
+    }, 
+    "67": {
+        "id": 67, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1674;1"
+    }, 
+    "68": {
+        "id": 68, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1674;1"
+    }, 
+    "69": {
+        "id": 69, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1674;1"
+    }, 
+    "70": {
+        "id": 70, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "71": {
+        "id": 71, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1674;1"
+    }, 
+    "72": {
+        "id": 72, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1674;1"
+    }, 
+    "73": {
+        "id": 73, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1674;1"
+    }, 
+    "74": {
+        "id": 74, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1674;1"
+    }, 
+    "75": {
+        "id": 75, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1674;1"
+    }, 
+    "76": {
+        "id": 76, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1674;1"
+    }, 
+    "77": {
+        "id": 77, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1674;1"
+    }, 
+    "78": {
+        "id": 78, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1674;1"
+    }, 
+    "79": {
+        "id": 79, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1674;1"
+    }, 
+    "80": {
+        "id": 80, 
+        "season": 2, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "81": {
+        "id": 81, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1674;1"
+    }, 
+    "82": {
+        "id": 82, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1674;1"
+    }, 
+    "83": {
+        "id": 83, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1674;1"
+    }, 
+    "84": {
+        "id": 84, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1674;1"
+    }, 
+    "85": {
+        "id": 85, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1674;1"
+    }, 
+    "86": {
+        "id": 86, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1674;1"
+    }, 
+    "87": {
+        "id": 87, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1674;1"
+    }, 
+    "88": {
+        "id": 88, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1674;1"
+    }, 
+    "89": {
+        "id": 89, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1674;1"
+    }, 
+    "90": {
+        "id": 90, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "91": {
+        "id": 91, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1674;1"
+    }, 
+    "92": {
+        "id": 92, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1674;1"
+    }, 
+    "93": {
+        "id": 93, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1674;1"
+    }, 
+    "94": {
+        "id": 94, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1674;1"
+    }, 
+    "95": {
+        "id": 95, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1674;1"
+    }, 
+    "96": {
+        "id": 96, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1674;1"
+    }, 
+    "97": {
+        "id": 97, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1674;1"
+    }, 
+    "98": {
+        "id": 98, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1674;1"
+    }, 
+    "99": {
+        "id": 99, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1674;1"
+    }, 
+    "100": {
+        "id": 100, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "101": {
+        "id": 101, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1674;1"
+    }, 
+    "102": {
+        "id": 102, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1674;1"
+    }, 
+    "103": {
+        "id": 103, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1674;1"
+    }, 
+    "104": {
+        "id": 104, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1674;1"
+    }, 
+    "105": {
+        "id": 105, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1674;1"
+    }, 
+    "106": {
+        "id": 106, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1674;1"
+    }, 
+    "107": {
+        "id": 107, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1674;1"
+    }, 
+    "108": {
+        "id": 108, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1674;1"
+    }, 
+    "109": {
+        "id": 109, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1674;1"
+    }, 
+    "110": {
+        "id": 110, 
+        "season": 2, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1674;1"
+    }, 
+    "111": {
+        "id": 111, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1711;1"
+    }, 
+    "112": {
+        "id": 112, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1711;1"
+    }, 
+    "113": {
+        "id": 113, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1711;1"
+    }, 
+    "114": {
+        "id": 114, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1711;1"
+    }, 
+    "115": {
+        "id": 115, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1711;1"
+    }, 
+    "116": {
+        "id": 116, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1711;1"
+    }, 
+    "117": {
+        "id": 117, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1711;1"
+    }, 
+    "118": {
+        "id": 118, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1711;1"
+    }, 
+    "119": {
+        "id": 119, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1711;1"
+    }, 
+    "120": {
+        "id": 120, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "121": {
+        "id": 121, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1711;1"
+    }, 
+    "122": {
+        "id": 122, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1711;1"
+    }, 
+    "123": {
+        "id": 123, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1711;1"
+    }, 
+    "124": {
+        "id": 124, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1711;1"
+    }, 
+    "125": {
+        "id": 125, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1711;1"
+    }, 
+    "126": {
+        "id": 126, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1711;1"
+    }, 
+    "127": {
+        "id": 127, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1711;1"
+    }, 
+    "128": {
+        "id": 128, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1711;1"
+    }, 
+    "129": {
+        "id": 129, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1711;1"
+    }, 
+    "130": {
+        "id": 130, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "131": {
+        "id": 131, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1711;1"
+    }, 
+    "132": {
+        "id": 132, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1711;1"
+    }, 
+    "133": {
+        "id": 133, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1711;1"
+    }, 
+    "134": {
+        "id": 134, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1711;1"
+    }, 
+    "135": {
+        "id": 135, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1711;1"
+    }, 
+    "136": {
+        "id": 136, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1711;1"
+    }, 
+    "137": {
+        "id": 137, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1711;1"
+    }, 
+    "138": {
+        "id": 138, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1711;1"
+    }, 
+    "139": {
+        "id": 139, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1711;1"
+    }, 
+    "140": {
+        "id": 140, 
+        "season": 3, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "141": {
+        "id": 141, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1711;1"
+    }, 
+    "142": {
+        "id": 142, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1711;1"
+    }, 
+    "143": {
+        "id": 143, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1711;1"
+    }, 
+    "144": {
+        "id": 144, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1711;1"
+    }, 
+    "145": {
+        "id": 145, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1711;1"
+    }, 
+    "146": {
+        "id": 146, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1711;1"
+    }, 
+    "147": {
+        "id": 147, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1711;1"
+    }, 
+    "148": {
+        "id": 148, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1711;1"
+    }, 
+    "149": {
+        "id": 149, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1711;1"
+    }, 
+    "150": {
+        "id": 150, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "151": {
+        "id": 151, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1711;1"
+    }, 
+    "152": {
+        "id": 152, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1711;1"
+    }, 
+    "153": {
+        "id": 153, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1711;1"
+    }, 
+    "154": {
+        "id": 154, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1711;1"
+    }, 
+    "155": {
+        "id": 155, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1711;1"
+    }, 
+    "156": {
+        "id": 156, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1711;1"
+    }, 
+    "157": {
+        "id": 157, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1711;1"
+    }, 
+    "158": {
+        "id": 158, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1711;1"
+    }, 
+    "159": {
+        "id": 159, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1711;1"
+    }, 
+    "160": {
+        "id": 160, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "161": {
+        "id": 161, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1711;1"
+    }, 
+    "162": {
+        "id": 162, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1711;1"
+    }, 
+    "163": {
+        "id": 163, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1711;1"
+    }, 
+    "164": {
+        "id": 164, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1711;1"
+    }, 
+    "165": {
+        "id": 165, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1711;1"
+    }, 
+    "166": {
+        "id": 166, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1711;1"
+    }, 
+    "167": {
+        "id": 167, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1711;1"
+    }, 
+    "168": {
+        "id": 168, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1711;1"
+    }, 
+    "169": {
+        "id": 169, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1711;1"
+    }, 
+    "170": {
+        "id": 170, 
+        "season": 3, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "171": {
+        "id": 171, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1711;1"
+    }, 
+    "172": {
+        "id": 172, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1711;1"
+    }, 
+    "173": {
+        "id": 173, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1711;1"
+    }, 
+    "174": {
+        "id": 174, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1711;1"
+    }, 
+    "175": {
+        "id": 175, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1711;1"
+    }, 
+    "176": {
+        "id": 176, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1711;1"
+    }, 
+    "177": {
+        "id": 177, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1711;1"
+    }, 
+    "178": {
+        "id": 178, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1711;1"
+    }, 
+    "179": {
+        "id": 179, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1711;1"
+    }, 
+    "180": {
+        "id": 180, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "181": {
+        "id": 181, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1711;1"
+    }, 
+    "182": {
+        "id": 182, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1711;1"
+    }, 
+    "183": {
+        "id": 183, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1711;1"
+    }, 
+    "184": {
+        "id": 184, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1711;1"
+    }, 
+    "185": {
+        "id": 185, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1711;1"
+    }, 
+    "186": {
+        "id": 186, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1711;1"
+    }, 
+    "187": {
+        "id": 187, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1711;1"
+    }, 
+    "188": {
+        "id": 188, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1711;1"
+    }, 
+    "189": {
+        "id": 189, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1711;1"
+    }, 
+    "190": {
+        "id": 190, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "191": {
+        "id": 191, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1711;1"
+    }, 
+    "192": {
+        "id": 192, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1711;1"
+    }, 
+    "193": {
+        "id": 193, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1711;1"
+    }, 
+    "194": {
+        "id": 194, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1711;1"
+    }, 
+    "195": {
+        "id": 195, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1711;1"
+    }, 
+    "196": {
+        "id": 196, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1711;1"
+    }, 
+    "197": {
+        "id": 197, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1711;1"
+    }, 
+    "198": {
+        "id": 198, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1711;1"
+    }, 
+    "199": {
+        "id": 199, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1711;1"
+    }, 
+    "200": {
+        "id": 200, 
+        "season": 3, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1711;1"
+    }, 
+    "201": {
+        "id": 201, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1721;1"
+    }, 
+    "202": {
+        "id": 202, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1721;1"
+    }, 
+    "203": {
+        "id": 203, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1721;1"
+    }, 
+    "204": {
+        "id": 204, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1721;1"
+    }, 
+    "205": {
+        "id": 205, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1721;1"
+    }, 
+    "206": {
+        "id": 206, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1721;1"
+    }, 
+    "207": {
+        "id": 207, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1721;1"
+    }, 
+    "208": {
+        "id": 208, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1721;1"
+    }, 
+    "209": {
+        "id": 209, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1721;1"
+    }, 
+    "210": {
+        "id": 210, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "211": {
+        "id": 211, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1721;1"
+    }, 
+    "212": {
+        "id": 212, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1721;1"
+    }, 
+    "213": {
+        "id": 213, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1721;1"
+    }, 
+    "214": {
+        "id": 214, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1721;1"
+    }, 
+    "215": {
+        "id": 215, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1721;1"
+    }, 
+    "216": {
+        "id": 216, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1721;1"
+    }, 
+    "217": {
+        "id": 217, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1721;1"
+    }, 
+    "218": {
+        "id": 218, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1721;1"
+    }, 
+    "219": {
+        "id": 219, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1721;1"
+    }, 
+    "220": {
+        "id": 220, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "221": {
+        "id": 221, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1721;1"
+    }, 
+    "222": {
+        "id": 222, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1721;1"
+    }, 
+    "223": {
+        "id": 223, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1721;1"
+    }, 
+    "224": {
+        "id": 224, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1721;1"
+    }, 
+    "225": {
+        "id": 225, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1721;1"
+    }, 
+    "226": {
+        "id": 226, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1721;1"
+    }, 
+    "227": {
+        "id": 227, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1721;1"
+    }, 
+    "228": {
+        "id": 228, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1721;1"
+    }, 
+    "229": {
+        "id": 229, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1721;1"
+    }, 
+    "230": {
+        "id": 230, 
+        "season": 4, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "231": {
+        "id": 231, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1721;1"
+    }, 
+    "232": {
+        "id": 232, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1721;1"
+    }, 
+    "233": {
+        "id": 233, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1721;1"
+    }, 
+    "234": {
+        "id": 234, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1721;1"
+    }, 
+    "235": {
+        "id": 235, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1721;1"
+    }, 
+    "236": {
+        "id": 236, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1721;1"
+    }, 
+    "237": {
+        "id": 237, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1721;1"
+    }, 
+    "238": {
+        "id": 238, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1721;1"
+    }, 
+    "239": {
+        "id": 239, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1721;1"
+    }, 
+    "240": {
+        "id": 240, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "241": {
+        "id": 241, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1721;1"
+    }, 
+    "242": {
+        "id": 242, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1721;1"
+    }, 
+    "243": {
+        "id": 243, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1721;1"
+    }, 
+    "244": {
+        "id": 244, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1721;1"
+    }, 
+    "245": {
+        "id": 245, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1721;1"
+    }, 
+    "246": {
+        "id": 246, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1721;1"
+    }, 
+    "247": {
+        "id": 247, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1721;1"
+    }, 
+    "248": {
+        "id": 248, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1721;1"
+    }, 
+    "249": {
+        "id": 249, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1721;1"
+    }, 
+    "250": {
+        "id": 250, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "251": {
+        "id": 251, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1721;1"
+    }, 
+    "252": {
+        "id": 252, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1721;1"
+    }, 
+    "253": {
+        "id": 253, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1721;1"
+    }, 
+    "254": {
+        "id": 254, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1721;1"
+    }, 
+    "255": {
+        "id": 255, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1721;1"
+    }, 
+    "256": {
+        "id": 256, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1721;1"
+    }, 
+    "257": {
+        "id": 257, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1721;1"
+    }, 
+    "258": {
+        "id": 258, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1721;1"
+    }, 
+    "259": {
+        "id": 259, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1721;1"
+    }, 
+    "260": {
+        "id": 260, 
+        "season": 4, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "261": {
+        "id": 261, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1721;1"
+    }, 
+    "262": {
+        "id": 262, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1721;1"
+    }, 
+    "263": {
+        "id": 263, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1721;1"
+    }, 
+    "264": {
+        "id": 264, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1721;1"
+    }, 
+    "265": {
+        "id": 265, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1721;1"
+    }, 
+    "266": {
+        "id": 266, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1721;1"
+    }, 
+    "267": {
+        "id": 267, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1721;1"
+    }, 
+    "268": {
+        "id": 268, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1721;1"
+    }, 
+    "269": {
+        "id": 269, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1721;1"
+    }, 
+    "270": {
+        "id": 270, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "271": {
+        "id": 271, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1721;1"
+    }, 
+    "272": {
+        "id": 272, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1721;1"
+    }, 
+    "273": {
+        "id": 273, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1721;1"
+    }, 
+    "274": {
+        "id": 274, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1721;1"
+    }, 
+    "275": {
+        "id": 275, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1721;1"
+    }, 
+    "276": {
+        "id": 276, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1721;1"
+    }, 
+    "277": {
+        "id": 277, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1721;1"
+    }, 
+    "278": {
+        "id": 278, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1721;1"
+    }, 
+    "279": {
+        "id": 279, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1721;1"
+    }, 
+    "280": {
+        "id": 280, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "281": {
+        "id": 281, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1721;1"
+    }, 
+    "282": {
+        "id": 282, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1721;1"
+    }, 
+    "283": {
+        "id": 283, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1721;1"
+    }, 
+    "284": {
+        "id": 284, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1721;1"
+    }, 
+    "285": {
+        "id": 285, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1721;1"
+    }, 
+    "286": {
+        "id": 286, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1721;1"
+    }, 
+    "287": {
+        "id": 287, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1721;1"
+    }, 
+    "288": {
+        "id": 288, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1721;1"
+    }, 
+    "289": {
+        "id": 289, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1721;1"
+    }, 
+    "290": {
+        "id": 290, 
+        "season": 4, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1721;1"
+    }, 
+    "291": {
+        "id": 291, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1722;1"
+    }, 
+    "292": {
+        "id": 292, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1722;1"
+    }, 
+    "293": {
+        "id": 293, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1722;1"
+    }, 
+    "294": {
+        "id": 294, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1722;1"
+    }, 
+    "295": {
+        "id": 295, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1722;1"
+    }, 
+    "296": {
+        "id": 296, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1722;1"
+    }, 
+    "297": {
+        "id": 297, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1722;1"
+    }, 
+    "298": {
+        "id": 298, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1722;1"
+    }, 
+    "299": {
+        "id": 299, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1722;1"
+    }, 
+    "300": {
+        "id": 300, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "301": {
+        "id": 301, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1722;1"
+    }, 
+    "302": {
+        "id": 302, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1722;1"
+    }, 
+    "303": {
+        "id": 303, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1722;1"
+    }, 
+    "304": {
+        "id": 304, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1722;1"
+    }, 
+    "305": {
+        "id": 305, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1722;1"
+    }, 
+    "306": {
+        "id": 306, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1722;1"
+    }, 
+    "307": {
+        "id": 307, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1722;1"
+    }, 
+    "308": {
+        "id": 308, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1722;1"
+    }, 
+    "309": {
+        "id": 309, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1722;1"
+    }, 
+    "310": {
+        "id": 310, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "311": {
+        "id": 311, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1722;1"
+    }, 
+    "312": {
+        "id": 312, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1722;1"
+    }, 
+    "313": {
+        "id": 313, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1722;1"
+    }, 
+    "314": {
+        "id": 314, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1722;1"
+    }, 
+    "315": {
+        "id": 315, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1722;1"
+    }, 
+    "316": {
+        "id": 316, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1722;1"
+    }, 
+    "317": {
+        "id": 317, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1722;1"
+    }, 
+    "318": {
+        "id": 318, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1722;1"
+    }, 
+    "319": {
+        "id": 319, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1722;1"
+    }, 
+    "320": {
+        "id": 320, 
+        "season": 5, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "321": {
+        "id": 321, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1722;1"
+    }, 
+    "322": {
+        "id": 322, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1722;1"
+    }, 
+    "323": {
+        "id": 323, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1722;1"
+    }, 
+    "324": {
+        "id": 324, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1722;1"
+    }, 
+    "325": {
+        "id": 325, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1722;1"
+    }, 
+    "326": {
+        "id": 326, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1722;1"
+    }, 
+    "327": {
+        "id": 327, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1722;1"
+    }, 
+    "328": {
+        "id": 328, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1722;1"
+    }, 
+    "329": {
+        "id": 329, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1722;1"
+    }, 
+    "330": {
+        "id": 330, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "331": {
+        "id": 331, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1722;1"
+    }, 
+    "332": {
+        "id": 332, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1722;1"
+    }, 
+    "333": {
+        "id": 333, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1722;1"
+    }, 
+    "334": {
+        "id": 334, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1722;1"
+    }, 
+    "335": {
+        "id": 335, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1722;1"
+    }, 
+    "336": {
+        "id": 336, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1722;1"
+    }, 
+    "337": {
+        "id": 337, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1722;1"
+    }, 
+    "338": {
+        "id": 338, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1722;1"
+    }, 
+    "339": {
+        "id": 339, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1722;1"
+    }, 
+    "340": {
+        "id": 340, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "341": {
+        "id": 341, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1722;1"
+    }, 
+    "342": {
+        "id": 342, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1722;1"
+    }, 
+    "343": {
+        "id": 343, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1722;1"
+    }, 
+    "344": {
+        "id": 344, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1722;1"
+    }, 
+    "345": {
+        "id": 345, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1722;1"
+    }, 
+    "346": {
+        "id": 346, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1722;1"
+    }, 
+    "347": {
+        "id": 347, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1722;1"
+    }, 
+    "348": {
+        "id": 348, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1722;1"
+    }, 
+    "349": {
+        "id": 349, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1722;1"
+    }, 
+    "350": {
+        "id": 350, 
+        "season": 5, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "351": {
+        "id": 351, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1722;1"
+    }, 
+    "352": {
+        "id": 352, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1722;1"
+    }, 
+    "353": {
+        "id": 353, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1722;1"
+    }, 
+    "354": {
+        "id": 354, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1722;1"
+    }, 
+    "355": {
+        "id": 355, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1722;1"
+    }, 
+    "356": {
+        "id": 356, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1722;1"
+    }, 
+    "357": {
+        "id": 357, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1722;1"
+    }, 
+    "358": {
+        "id": 358, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1722;1"
+    }, 
+    "359": {
+        "id": 359, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1722;1"
+    }, 
+    "360": {
+        "id": 360, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "361": {
+        "id": 361, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1722;1"
+    }, 
+    "362": {
+        "id": 362, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1722;1"
+    }, 
+    "363": {
+        "id": 363, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1722;1"
+    }, 
+    "364": {
+        "id": 364, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1722;1"
+    }, 
+    "365": {
+        "id": 365, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1722;1"
+    }, 
+    "366": {
+        "id": 366, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1722;1"
+    }, 
+    "367": {
+        "id": 367, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1722;1"
+    }, 
+    "368": {
+        "id": 368, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1722;1"
+    }, 
+    "369": {
+        "id": 369, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1722;1"
+    }, 
+    "370": {
+        "id": 370, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "371": {
+        "id": 371, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1722;1"
+    }, 
+    "372": {
+        "id": 372, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1722;1"
+    }, 
+    "373": {
+        "id": 373, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1722;1"
+    }, 
+    "374": {
+        "id": 374, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1722;1"
+    }, 
+    "375": {
+        "id": 375, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1722;1"
+    }, 
+    "376": {
+        "id": 376, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1722;1"
+    }, 
+    "377": {
+        "id": 377, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1722;1"
+    }, 
+    "378": {
+        "id": 378, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1722;1"
+    }, 
+    "379": {
+        "id": 379, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1722;1"
+    }, 
+    "380": {
+        "id": 380, 
+        "season": 5, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1722;1"
+    }, 
+    "381": {
+        "id": 381, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1723;1"
+    }, 
+    "382": {
+        "id": 382, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1723;1"
+    }, 
+    "383": {
+        "id": 383, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1723;1"
+    }, 
+    "384": {
+        "id": 384, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1723;1"
+    }, 
+    "385": {
+        "id": 385, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1723;1"
+    }, 
+    "386": {
+        "id": 386, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1723;1"
+    }, 
+    "387": {
+        "id": 387, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1723;1"
+    }, 
+    "388": {
+        "id": 388, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1723;1"
+    }, 
+    "389": {
+        "id": 389, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1723;1"
+    }, 
+    "390": {
+        "id": 390, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "391": {
+        "id": 391, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1723;1"
+    }, 
+    "392": {
+        "id": 392, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1723;1"
+    }, 
+    "393": {
+        "id": 393, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1723;1"
+    }, 
+    "394": {
+        "id": 394, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1723;1"
+    }, 
+    "395": {
+        "id": 395, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1723;1"
+    }, 
+    "396": {
+        "id": 396, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1723;1"
+    }, 
+    "397": {
+        "id": 397, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1723;1"
+    }, 
+    "398": {
+        "id": 398, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1723;1"
+    }, 
+    "399": {
+        "id": 399, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1723;1"
+    }, 
+    "400": {
+        "id": 400, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "401": {
+        "id": 401, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1723;1"
+    }, 
+    "402": {
+        "id": 402, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1723;1"
+    }, 
+    "403": {
+        "id": 403, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1723;1"
+    }, 
+    "404": {
+        "id": 404, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1723;1"
+    }, 
+    "405": {
+        "id": 405, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1723;1"
+    }, 
+    "406": {
+        "id": 406, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1723;1"
+    }, 
+    "407": {
+        "id": 407, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1723;1"
+    }, 
+    "408": {
+        "id": 408, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1723;1"
+    }, 
+    "409": {
+        "id": 409, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1723;1"
+    }, 
+    "410": {
+        "id": 410, 
+        "season": 6, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "411": {
+        "id": 411, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1723;1"
+    }, 
+    "412": {
+        "id": 412, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1723;1"
+    }, 
+    "413": {
+        "id": 413, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1723;1"
+    }, 
+    "414": {
+        "id": 414, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1723;1"
+    }, 
+    "415": {
+        "id": 415, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1723;1"
+    }, 
+    "416": {
+        "id": 416, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1723;1"
+    }, 
+    "417": {
+        "id": 417, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1723;1"
+    }, 
+    "418": {
+        "id": 418, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1723;1"
+    }, 
+    "419": {
+        "id": 419, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1723;1"
+    }, 
+    "420": {
+        "id": 420, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "421": {
+        "id": 421, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1723;1"
+    }, 
+    "422": {
+        "id": 422, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1723;1"
+    }, 
+    "423": {
+        "id": 423, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1723;1"
+    }, 
+    "424": {
+        "id": 424, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1723;1"
+    }, 
+    "425": {
+        "id": 425, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1723;1"
+    }, 
+    "426": {
+        "id": 426, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1723;1"
+    }, 
+    "427": {
+        "id": 427, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1723;1"
+    }, 
+    "428": {
+        "id": 428, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1723;1"
+    }, 
+    "429": {
+        "id": 429, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1723;1"
+    }, 
+    "430": {
+        "id": 430, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "431": {
+        "id": 431, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1723;1"
+    }, 
+    "432": {
+        "id": 432, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1723;1"
+    }, 
+    "433": {
+        "id": 433, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1723;1"
+    }, 
+    "434": {
+        "id": 434, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1723;1"
+    }, 
+    "435": {
+        "id": 435, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1723;1"
+    }, 
+    "436": {
+        "id": 436, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1723;1"
+    }, 
+    "437": {
+        "id": 437, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1723;1"
+    }, 
+    "438": {
+        "id": 438, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1723;1"
+    }, 
+    "439": {
+        "id": 439, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1723;1"
+    }, 
+    "440": {
+        "id": 440, 
+        "season": 6, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "441": {
+        "id": 441, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1723;1"
+    }, 
+    "442": {
+        "id": 442, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1723;1"
+    }, 
+    "443": {
+        "id": 443, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1723;1"
+    }, 
+    "444": {
+        "id": 444, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1723;1"
+    }, 
+    "445": {
+        "id": 445, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1723;1"
+    }, 
+    "446": {
+        "id": 446, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1723;1"
+    }, 
+    "447": {
+        "id": 447, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1723;1"
+    }, 
+    "448": {
+        "id": 448, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1723;1"
+    }, 
+    "449": {
+        "id": 449, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1723;1"
+    }, 
+    "450": {
+        "id": 450, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "451": {
+        "id": 451, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1723;1"
+    }, 
+    "452": {
+        "id": 452, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1723;1"
+    }, 
+    "453": {
+        "id": 453, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1723;1"
+    }, 
+    "454": {
+        "id": 454, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1723;1"
+    }, 
+    "455": {
+        "id": 455, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1723;1"
+    }, 
+    "456": {
+        "id": 456, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1723;1"
+    }, 
+    "457": {
+        "id": 457, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1723;1"
+    }, 
+    "458": {
+        "id": 458, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1723;1"
+    }, 
+    "459": {
+        "id": 459, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1723;1"
+    }, 
+    "460": {
+        "id": 460, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "461": {
+        "id": 461, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1723;1"
+    }, 
+    "462": {
+        "id": 462, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1723;1"
+    }, 
+    "463": {
+        "id": 463, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1723;1"
+    }, 
+    "464": {
+        "id": 464, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1723;1"
+    }, 
+    "465": {
+        "id": 465, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1723;1"
+    }, 
+    "466": {
+        "id": 466, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1723;1"
+    }, 
+    "467": {
+        "id": 467, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1723;1"
+    }, 
+    "468": {
+        "id": 468, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1723;1"
+    }, 
+    "469": {
+        "id": 469, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1723;1"
+    }, 
+    "470": {
+        "id": 470, 
+        "season": 6, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1723;1"
+    }, 
+    "471": {
+        "id": 471, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1724;1"
+    }, 
+    "472": {
+        "id": 472, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1724;1"
+    }, 
+    "473": {
+        "id": 473, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1724;1"
+    }, 
+    "474": {
+        "id": 474, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1724;1"
+    }, 
+    "475": {
+        "id": 475, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1724;1"
+    }, 
+    "476": {
+        "id": 476, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1724;1"
+    }, 
+    "477": {
+        "id": 477, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1724;1"
+    }, 
+    "478": {
+        "id": 478, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1724;1"
+    }, 
+    "479": {
+        "id": 479, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1724;1"
+    }, 
+    "480": {
+        "id": 480, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "481": {
+        "id": 481, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1724;1"
+    }, 
+    "482": {
+        "id": 482, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1724;1"
+    }, 
+    "483": {
+        "id": 483, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1724;1"
+    }, 
+    "484": {
+        "id": 484, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1724;1"
+    }, 
+    "485": {
+        "id": 485, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1724;1"
+    }, 
+    "486": {
+        "id": 486, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1724;1"
+    }, 
+    "487": {
+        "id": 487, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1724;1"
+    }, 
+    "488": {
+        "id": 488, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1724;1"
+    }, 
+    "489": {
+        "id": 489, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1724;1"
+    }, 
+    "490": {
+        "id": 490, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "491": {
+        "id": 491, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1724;1"
+    }, 
+    "492": {
+        "id": 492, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1724;1"
+    }, 
+    "493": {
+        "id": 493, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1724;1"
+    }, 
+    "494": {
+        "id": 494, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1724;1"
+    }, 
+    "495": {
+        "id": 495, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1724;1"
+    }, 
+    "496": {
+        "id": 496, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1724;1"
+    }, 
+    "497": {
+        "id": 497, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1724;1"
+    }, 
+    "498": {
+        "id": 498, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1724;1"
+    }, 
+    "499": {
+        "id": 499, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1724;1"
+    }, 
+    "500": {
+        "id": 500, 
+        "season": 7, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "501": {
+        "id": 501, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1724;1"
+    }, 
+    "502": {
+        "id": 502, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1724;1"
+    }, 
+    "503": {
+        "id": 503, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1724;1"
+    }, 
+    "504": {
+        "id": 504, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1724;1"
+    }, 
+    "505": {
+        "id": 505, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1724;1"
+    }, 
+    "506": {
+        "id": 506, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1724;1"
+    }, 
+    "507": {
+        "id": 507, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1724;1"
+    }, 
+    "508": {
+        "id": 508, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1724;1"
+    }, 
+    "509": {
+        "id": 509, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1724;1"
+    }, 
+    "510": {
+        "id": 510, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "511": {
+        "id": 511, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1724;1"
+    }, 
+    "512": {
+        "id": 512, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1724;1"
+    }, 
+    "513": {
+        "id": 513, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1724;1"
+    }, 
+    "514": {
+        "id": 514, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1724;1"
+    }, 
+    "515": {
+        "id": 515, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1724;1"
+    }, 
+    "516": {
+        "id": 516, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1724;1"
+    }, 
+    "517": {
+        "id": 517, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1724;1"
+    }, 
+    "518": {
+        "id": 518, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1724;1"
+    }, 
+    "519": {
+        "id": 519, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1724;1"
+    }, 
+    "520": {
+        "id": 520, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "521": {
+        "id": 521, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1724;1"
+    }, 
+    "522": {
+        "id": 522, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1724;1"
+    }, 
+    "523": {
+        "id": 523, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1724;1"
+    }, 
+    "524": {
+        "id": 524, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1724;1"
+    }, 
+    "525": {
+        "id": 525, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1724;1"
+    }, 
+    "526": {
+        "id": 526, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1724;1"
+    }, 
+    "527": {
+        "id": 527, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1724;1"
+    }, 
+    "528": {
+        "id": 528, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1724;1"
+    }, 
+    "529": {
+        "id": 529, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1724;1"
+    }, 
+    "530": {
+        "id": 530, 
+        "season": 7, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "531": {
+        "id": 531, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1724;1"
+    }, 
+    "532": {
+        "id": 532, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1724;1"
+    }, 
+    "533": {
+        "id": 533, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1724;1"
+    }, 
+    "534": {
+        "id": 534, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1724;1"
+    }, 
+    "535": {
+        "id": 535, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1724;1"
+    }, 
+    "536": {
+        "id": 536, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1724;1"
+    }, 
+    "537": {
+        "id": 537, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1724;1"
+    }, 
+    "538": {
+        "id": 538, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1724;1"
+    }, 
+    "539": {
+        "id": 539, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1724;1"
+    }, 
+    "540": {
+        "id": 540, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "541": {
+        "id": 541, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1724;1"
+    }, 
+    "542": {
+        "id": 542, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1724;1"
+    }, 
+    "543": {
+        "id": 543, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1724;1"
+    }, 
+    "544": {
+        "id": 544, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1724;1"
+    }, 
+    "545": {
+        "id": 545, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1724;1"
+    }, 
+    "546": {
+        "id": 546, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1724;1"
+    }, 
+    "547": {
+        "id": 547, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1724;1"
+    }, 
+    "548": {
+        "id": 548, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1724;1"
+    }, 
+    "549": {
+        "id": 549, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1724;1"
+    }, 
+    "550": {
+        "id": 550, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "551": {
+        "id": 551, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1724;1"
+    }, 
+    "552": {
+        "id": 552, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1724;1"
+    }, 
+    "553": {
+        "id": 553, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1724;1"
+    }, 
+    "554": {
+        "id": 554, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1724;1"
+    }, 
+    "555": {
+        "id": 555, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1724;1"
+    }, 
+    "556": {
+        "id": 556, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1724;1"
+    }, 
+    "557": {
+        "id": 557, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1724;1"
+    }, 
+    "558": {
+        "id": 558, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1724;1"
+    }, 
+    "559": {
+        "id": 559, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1724;1"
+    }, 
+    "560": {
+        "id": 560, 
+        "season": 7, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1724;1"
+    }, 
+    "561": {
+        "id": 561, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1725;1"
+    }, 
+    "562": {
+        "id": 562, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1725;1"
+    }, 
+    "563": {
+        "id": 563, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1725;1"
+    }, 
+    "564": {
+        "id": 564, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1725;1"
+    }, 
+    "565": {
+        "id": 565, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1725;1"
+    }, 
+    "566": {
+        "id": 566, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1725;1"
+    }, 
+    "567": {
+        "id": 567, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1725;1"
+    }, 
+    "568": {
+        "id": 568, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1725;1"
+    }, 
+    "569": {
+        "id": 569, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1725;1"
+    }, 
+    "570": {
+        "id": 570, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "571": {
+        "id": 571, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1725;1"
+    }, 
+    "572": {
+        "id": 572, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1725;1"
+    }, 
+    "573": {
+        "id": 573, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1725;1"
+    }, 
+    "574": {
+        "id": 574, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1725;1"
+    }, 
+    "575": {
+        "id": 575, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1725;1"
+    }, 
+    "576": {
+        "id": 576, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1725;1"
+    }, 
+    "577": {
+        "id": 577, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1725;1"
+    }, 
+    "578": {
+        "id": 578, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1725;1"
+    }, 
+    "579": {
+        "id": 579, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1725;1"
+    }, 
+    "580": {
+        "id": 580, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "581": {
+        "id": 581, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1725;1"
+    }, 
+    "582": {
+        "id": 582, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1725;1"
+    }, 
+    "583": {
+        "id": 583, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1725;1"
+    }, 
+    "584": {
+        "id": 584, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1725;1"
+    }, 
+    "585": {
+        "id": 585, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1725;1"
+    }, 
+    "586": {
+        "id": 586, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1725;1"
+    }, 
+    "587": {
+        "id": 587, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1725;1"
+    }, 
+    "588": {
+        "id": 588, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1725;1"
+    }, 
+    "589": {
+        "id": 589, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1725;1"
+    }, 
+    "590": {
+        "id": 590, 
+        "season": 8, 
+        "matchtyp": 1, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "591": {
+        "id": 591, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1725;1"
+    }, 
+    "592": {
+        "id": 592, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1725;1"
+    }, 
+    "593": {
+        "id": 593, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1725;1"
+    }, 
+    "594": {
+        "id": 594, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1725;1"
+    }, 
+    "595": {
+        "id": 595, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1725;1"
+    }, 
+    "596": {
+        "id": 596, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1725;1"
+    }, 
+    "597": {
+        "id": 597, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1725;1"
+    }, 
+    "598": {
+        "id": 598, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1725;1"
+    }, 
+    "599": {
+        "id": 599, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1725;1"
+    }, 
+    "600": {
+        "id": 600, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "601": {
+        "id": 601, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1725;1"
+    }, 
+    "602": {
+        "id": 602, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1725;1"
+    }, 
+    "603": {
+        "id": 603, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1725;1"
+    }, 
+    "604": {
+        "id": 604, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1725;1"
+    }, 
+    "605": {
+        "id": 605, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1725;1"
+    }, 
+    "606": {
+        "id": 606, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1725;1"
+    }, 
+    "607": {
+        "id": 607, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1725;1"
+    }, 
+    "608": {
+        "id": 608, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1725;1"
+    }, 
+    "609": {
+        "id": 609, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1725;1"
+    }, 
+    "610": {
+        "id": 610, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "611": {
+        "id": 611, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1725;1"
+    }, 
+    "612": {
+        "id": 612, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1725;1"
+    }, 
+    "613": {
+        "id": 613, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1725;1"
+    }, 
+    "614": {
+        "id": 614, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1725;1"
+    }, 
+    "615": {
+        "id": 615, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1725;1"
+    }, 
+    "616": {
+        "id": 616, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1725;1"
+    }, 
+    "617": {
+        "id": 617, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1725;1"
+    }, 
+    "618": {
+        "id": 618, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1725;1"
+    }, 
+    "619": {
+        "id": 619, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1725;1"
+    }, 
+    "620": {
+        "id": 620, 
+        "season": 8, 
+        "matchtyp": 2, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "621": {
+        "id": 621, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "1", 
+        "awards": "18000018;1|1725;1"
+    }, 
+    "622": {
+        "id": 622, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "2", 
+        "awards": "16000018;1|1725;1"
+    }, 
+    "623": {
+        "id": 623, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "3", 
+        "awards": "15000018;1|1725;1"
+    }, 
+    "624": {
+        "id": 624, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "4;10", 
+        "awards": "13500018;1|1725;1"
+    }, 
+    "625": {
+        "id": 625, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "11;20", 
+        "awards": "12000018;1|1725;1"
+    }, 
+    "626": {
+        "id": 626, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "21;100", 
+        "awards": "9000018;1|1725;1"
+    }, 
+    "627": {
+        "id": 627, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "101;300", 
+        "awards": "7500018;1|1725;1"
+    }, 
+    "628": {
+        "id": 628, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "301;500", 
+        "awards": "6000018;1|1725;1"
+    }, 
+    "629": {
+        "id": 629, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1725;1"
+    }, 
+    "630": {
+        "id": 630, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 1, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "631": {
+        "id": 631, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "1", 
+        "awards": "18001672;1|1725;1"
+    }, 
+    "632": {
+        "id": 632, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "2", 
+        "awards": "16001672;1|1725;1"
+    }, 
+    "633": {
+        "id": 633, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "3", 
+        "awards": "15001672;1|1725;1"
+    }, 
+    "634": {
+        "id": 634, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "4;10", 
+        "awards": "13501672;1|1725;1"
+    }, 
+    "635": {
+        "id": 635, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "11;20", 
+        "awards": "12001672;1|1725;1"
+    }, 
+    "636": {
+        "id": 636, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "21;100", 
+        "awards": "9001672;1|1725;1"
+    }, 
+    "637": {
+        "id": 637, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "101;300", 
+        "awards": "7501672;1|1725;1"
+    }, 
+    "638": {
+        "id": 638, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "301;500", 
+        "awards": "6001672;1|1725;1"
+    }, 
+    "639": {
+        "id": 639, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "501;1000", 
+        "awards": "4501672;1|1725;1"
+    }, 
+    "640": {
+        "id": 640, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 2, 
+        "level": "0", 
+        "awards": "1725;1"
+    }, 
+    "641": {
+        "id": 641, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "1", 
+        "awards": "18000018;1|1725;1"
+    }, 
+    "642": {
+        "id": 642, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "2", 
+        "awards": "16000018;1|1725;1"
+    }, 
+    "643": {
+        "id": 643, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "3", 
+        "awards": "15000018;1|1725;1"
+    }, 
+    "644": {
+        "id": 644, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "4;10", 
+        "awards": "13500018;1|1725;1"
+    }, 
+    "645": {
+        "id": 645, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "11;20", 
+        "awards": "12000018;1|1725;1"
+    }, 
+    "646": {
+        "id": 646, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "21;100", 
+        "awards": "9000018;1|1725;1"
+    }, 
+    "647": {
+        "id": 647, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "101;300", 
+        "awards": "7500018;1|1725;1"
+    }, 
+    "648": {
+        "id": 648, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "301;500", 
+        "awards": "6000018;1|1725;1"
+    }, 
+    "649": {
+        "id": 649, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "501;1000", 
+        "awards": "4500018;1|1725;1"
+    }, 
+    "650": {
+        "id": 650, 
+        "season": 8, 
+        "matchtyp": 4, 
+        "ranktyp": 3, 
+        "level": "0", 
+        "awards": "1725;1"
+    }
+}

@@ -1,0 +1,424 @@
+{
+    "name": "Player",
+    "props": {
+        "HP": {
+            "type": "uint32",
+            "save": "0",
+            "desc": "血量"
+        },
+        "MaxHP": {
+            "type": "uint32",
+            "save": "0",
+            "desc": "最大血量"
+        },
+        "VehicleProp": {
+            "type": "*protoMsg.VehicleProp",
+            "save": "0",
+            "desc": "载具信息"
+        },
+        "ChracterMapDataInfo": {
+            "type": "*protoMsg.ChracterMapDataInfo",
+            "save": "0",
+            "desc": "武器信息"
+        },
+        "HeadProp": {
+            "type": "*protoMsg.HeadProp",
+            "save": "0",
+            "desc": "头盔"
+        },
+        "BodyProp": {
+            "type": "*protoMsg.BodyProp",
+            "save": "0",
+            "desc": "防弹衣"
+        },
+        "BackPackProp": {
+            "type": "*protoMsg.BackPackProp",
+            "save": "0",
+            "desc": "背包"
+        },
+        "GunSight": {
+            "type": "uint64",
+            "save": "0",
+            "desc": "高倍镜"
+        },
+        "Name": {
+            "type": "string",
+            "desc": "名称"
+        },
+        "Level": {
+            "type": "uint32",
+            "desc": "玩家等级"
+        },
+        "Exp": {
+            "type": "uint32",
+            "desc": "当前等级下积累的经验值"
+        },
+        "FriendsNum": {
+            "type": "uint32",
+            "desc": "玩家好友数量"
+        },
+        "OnlineTime": {
+            "type": "int64",
+            "desc": "在线时长"
+        },
+        "TodayOnlineTime": {
+            "type": "int64",
+            "desc": "今天在线时长"
+        },
+        "LogoutTime": {
+            "type": "int64",
+            "desc": "登出时间"
+        },
+        "SpeedRate": {
+            "type": "float32",
+            "save": "0",
+            "desc": "速度比率"
+        },
+        "SlowMove": {
+            "type": "uint8",
+            "desc": "状态"
+        },
+        "Fastrun": {
+            "type": "uint8",
+            "desc": "快速跑"
+        },
+        "RoleModel": {
+            "type": "uint32",
+            "desc": "角色模型id"
+        },
+        "PlayerLogin": {
+            "type": "*protoMsg.PlayerLogin",
+            "desc": "玩家登陆时客户端上报的数据"
+        },
+        "Coin": {
+            "type": "uint64",
+            "desc": "金币"
+        },
+        "DayCoinGet": {
+            "type": "uint64",
+            "desc": "每日累计获得金币"
+        },
+        "DayCoinGetTime": {
+            "type": "uint64",
+            "desc": "每日获得金币时间"
+        },
+        "Diam": {
+            "type": "uint64",
+            "desc": "钻石"
+        },
+        "DayDiamGet": {
+            "type": "uint64",
+            "desc": "每日累计获得钻石"
+        },
+        "DayDiamGetTime": {
+            "type": "uint64",
+            "desc": "每日获得钻石时间"
+        },
+        "BraveCoin": {
+            "type": "uint64",
+            "desc": "勇气值"
+        },
+        "DayBraveGet": {
+            "type": "uint64",
+            "desc": "每日累计获得钻石"
+        },
+        "DayBraveGetTime": {
+            "type": "uint64",
+            "desc": "每日获得钻石时间"
+        },
+        "ComradePoints": {
+            "type": "uint64",
+            "desc": "战友积分"
+        },
+        "QQVIP": {
+            "type": "uint8",
+            "desc": "QQ VIP等级, 0:非会员, 1:会员, 2:SVIP"
+        },
+        "Picture": {
+            "type": "string",
+            "desc": "玩家头像URL"
+        },
+        "NickName": {
+            "type": "string",
+            "desc": "WX/QQ昵称"
+        },
+        "Gender": {
+            "type": "string",
+            "desc": "性别"
+        },
+        "GameEnter": {
+            "type": "string",
+            "save": "0",
+            "desc": "登录平台"
+        },
+        "MvSpeed": {
+            "type": "float32",
+            "save": "0",
+            "desc": "移动速度"
+        },
+        "AimPos": {
+            "type": "*protoMsg.Vector3",
+            "save": "0",
+            "desc": "玩家瞄准位置"
+        },
+        "LoginTime": {
+            "type": "int64",
+            "desc": "登录时间"
+        },
+        "ParachuteID": {
+            "type": "uint32",
+            "desc": "伞包id"
+        },
+        "AccessToken": {
+            "type": "string",
+            "save": "0",
+            "desc": "accessToken"
+        },
+        "MedalData": {
+            "type": "*protoMsg.MedalDataList",
+            "desc": "背包"
+        },
+        "GoodsRoleModel": {
+            "type": "uint32",
+            "desc": "角色模型商品id"
+        },
+        "GoodsParachuteID": {
+            "type": "uint32",
+            "desc": "伞包商品id"
+        },
+        "PackWearInGame":{
+            "type":"*protoMsg.WearInGame",
+            "desc":"背包幻化列表"
+        },
+        "HeadWearInGame":{
+            "type":"*protoMsg.WearInGame",
+            "desc":"头盔幻化列表"
+        },
+        "WeaponEquipInGame":{
+            "type":"*protoMsg.WeaponInGame",
+            "desc":"武器装备信息"
+        },
+        "GamerType":{
+            "type":"uint32",
+            "save": "0",
+            "desc":"玩家在模式中的类型"
+        },
+		"IsInTank": {
+            "type": "uint8",
+            "save": "0",
+            "desc": "是否在坦克上"
+        },
+        "SubRotation1": {
+            "type": "*protoMsg.Vector3",
+            "save": "0",
+            "desc": "炮塔角度"
+        },
+        "SubRotation2": {
+            "type": "*protoMsg.Vector3",
+            "save": "0",
+            "desc": "炮管角度"
+        },
+        "Veteran":{
+            "type":"uint32",
+            "desc":"玩家是否是老兵类型"
+        },
+        "Theme":{
+            "type":"uint32",
+            "desc":"玩家当前使用的大厅场景"
+        },
+        "SkillEffectList":{
+            "type":"*protoMsg.SkillEffectList",
+            "desc":"技能效果"
+        },
+        "PayOS": {
+            "type": "string",
+            "desc": "当前充值设备的操作系统(iap或android)"
+        },
+        "Brick": {
+            "type": "uint64",
+            "desc": "当前账户金砖余额"
+        },
+        "Brick1": {
+            "type": "uint64",
+            "desc": "IOS账户金砖余额"
+        },
+        "Brick2": {
+            "type": "uint64",
+            "desc": "Android账户金砖余额"
+        },
+        "Watchable":{
+            "type": "uint32",
+            "desc": "是否允许好友观战 0表示允许 1表示不允许"
+        },
+        "OutsideWeapon":{
+            "type": "uint32",
+            "desc": "游戏场景外的武器，在大厅进行展示"
+        },
+        "IsWearingGilley":{
+            "type": "uint32",
+            "desc": "否穿戴吉利服 0表示未穿戴 1表示穿戴"
+        }
+    },
+
+    "server": {
+        "11": {
+            "desc": "Lobby",
+            "props": [
+                "Name",
+                "State",
+                "RoleModel",
+                "QQVIP",
+                "GameEnter",
+                "Picture",
+                "NickName",
+                "Gender",
+                "FriendsNum",
+                "OnlineTime",
+                "TodayOnlineTime",
+                "LogoutTime",
+                "Level",
+                "Exp",
+                "LoginTime",
+                "PlayerLogin",
+                "Coin",
+                "DayCoinGet",
+                "DayCoinGetTime",
+                "Diam",
+                "DayDiamGet",
+                "DayDiamGetTime",
+                "BraveCoin",
+                "DayBraveGet",
+                "DayBraveGetTime",
+                "ComradePoints",
+                "QQVIP",
+                "ParachuteID",
+                "AccessToken",
+                "GoodsRoleModel",
+                "GoodsParachuteID",
+                "PackWearInGame",
+                "HeadWearInGame",
+                "WeaponEquipInGame",
+                "Veteran",
+                "Theme",
+                "PayOS",
+                "Brick",
+                "Brick1",
+                "Brick2",
+                "Watchable",
+                "OutsideWeapon"
+            ]
+        },
+        "12": {
+            "desc": "Room",
+            "props": [
+                "HP",
+                "MaxHP",
+                "VehicleProp",
+                "ChracterMapDataInfo",
+                "HeadProp",
+                "BodyProp",
+                "BackPackProp",
+                "GunSight",
+                "Name",
+                "SpeedRate",
+                "SlowMove",
+                "Fastrun",
+                "RoleModel",
+                "PlayerLogin",
+                "Coin",
+                "DayCoinGet",
+                "DayCoinGetTime",
+                "Diam",
+                "DayDiamGet",
+                "DayDiamGetTime",
+                "BraveCoin",
+                "DayBraveGet",
+                "DayBraveGetTime",
+                "ComradePoints",
+                "MvSpeed",
+                "QQVIP",
+                "AimPos",
+                "Level",
+                "Exp",
+                "FriendsNum",
+                "ParachuteID",
+                "AccessToken",
+                "MedalData",
+                "GoodsRoleModel",
+                "GoodsParachuteID",
+                "PackWearInGame",
+                "HeadWearInGame",
+                "WeaponEquipInGame",
+                "GamerType",
+				"IsInTank",
+				"SubRotation1",
+                "SubRotation2",
+                "SkillEffectList",
+                "IsWearingGilley"
+            ]
+        }
+    },
+
+    "client": {
+        "desc": "客户端关注的属性，需要包含在Space所在的服务器中",
+        "props": [
+            "HP",
+            "MaxHP",
+            "VehicleProp",
+            "ChracterMapDataInfo",
+            "HeadProp",
+            "BodyProp",
+            "BackPackProp",
+            "GunSight",
+            "Name",
+            "SpeedRate",
+            "SlowMove",
+            "Fastrun",
+            "RoleModel",
+            "MvSpeed",
+            "AimPos",
+            "ParachuteID",
+            "AccessToken",
+            "GoodsRoleModel",
+            "GoodsParachuteID",
+            "GamerType",
+			"IsInTank",
+			"SubRotation1",
+			"SubRotation2",
+            "SkillEffectList",
+            "IsWearingGilley"
+        ]
+    },
+
+    "mrole": {
+        "desc": "主角自己关注的属性，在客户端登录的时候就会下发给客户端",
+        "props": [
+            "Name",
+            "Level",
+            "Exp",
+            "FriendsNum",
+            "RoleModel",
+            "Coin",
+            "Diam",
+            "BraveCoin",
+            "ComradePoints",
+            "QQVIP",
+            "GameEnter",
+            "Picture",
+            "NickName",
+            "Gender",
+            "ParachuteID",
+            "AccessToken",
+            "GoodsRoleModel",
+            "GoodsParachuteID",
+            "Theme",
+            "PayOS",
+            "Brick",
+            "Brick1",
+            "Brick2",
+            "Watchable",
+            "OutsideWeapon"
+        ]
+    }
+
+}

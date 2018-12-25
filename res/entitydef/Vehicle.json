@@ -1,0 +1,66 @@
+{
+    "name" : "Vehicle" ,
+    "props" : {
+        "VehicleProp" : {
+            "type" : "*protoMsg.VehicleProp" ,
+            "save" : "0" ,
+            "desc" : "属性"
+        },
+		"VehiclePhysics" : {
+            "type" : "*protoMsg.VehiclePhysics" ,
+            "save" : "0" ,
+            "desc" : "物理信息"
+        },
+        "ownerid": {
+            "type": "uint64",
+            "save": "0",
+            "desc": "拥有者"
+        },
+        "SubRotation1": {
+            "type": "*protoMsg.Vector3",
+            "save": "0",
+            "desc": "炮塔角度"
+        },
+        "SubRotation2": {
+            "type": "*protoMsg.Vector3",
+            "save": "0",
+            "desc": "炮管角度"
+        }
+    } ,
+    
+    "server" : {
+        "12" : {
+            "desc" : "Room" ,
+            "props" : [
+                "VehicleProp",
+				"VehiclePhysics",
+                "ownerid",
+                "SubRotation1",
+                "SubRotation2"
+            ]
+        } 
+    } ,
+
+    "client" : {
+        "desc" : "客户端AOI关注的属性，需要包含在Space所在的服务器中" ,
+        "props" : [
+			"VehicleProp",
+			"VehiclePhysics",
+            "ownerid",
+            "SubRotation1",
+            "SubRotation2"
+        ]
+    },
+
+    "mrole" : {
+        "desc" : "主角自己关注的属性，需要包含在Space所在的服务器中" ,
+        "props" : [
+			"VehicleProp",
+			"VehiclePhysics",
+            "ownerid",
+            "SubRotation1",
+            "SubRotation2"
+        ]
+    }
+
+}

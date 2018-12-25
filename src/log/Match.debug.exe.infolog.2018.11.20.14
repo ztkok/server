@@ -1,0 +1,21 @@
+2018-11-20 14:37:53.944 [ERR] [Sess.go:147] tcp read message error read tcp 127.0.0.1:3441->127.0.0.1:59624: wsarecv: An existing connection was forcibly closed by the remote host. 127.0.0.1:59624
+2018-11-20 14:37:53.945 [INF] [SrvNet.go:394] SrvNet server 10601 the connect with 10201 is closed
+2018-11-20 14:37:54.842 [ERR] [Sess.go:147] tcp read message error read tcp 127.0.0.1:3441->127.0.0.1:59623: wsarecv: An existing connection was forcibly closed by the remote host. 127.0.0.1:59623
+2018-11-20 14:37:54.842 [INF] [SrvNet.go:394] SrvNet server 10601 the connect with 10401 is closed
+2018-11-20 14:37:56.042 [ERR] [Sess.go:147] tcp read message error read tcp 127.0.0.1:3441->127.0.0.1:59706: wsarecv: An existing connection was forcibly closed by the remote host. 127.0.0.1:59706
+2018-11-20 14:37:56.042 [INF] [SrvNet.go:394] SrvNet server 10601 the connect with 10301 is closed
+2018-11-20 14:38:02.109 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10201
+2018-11-20 14:38:02.172 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10301
+2018-11-20 14:38:24.839 [ERR] [Sess.go:147] tcp read message error read tcp 127.0.0.1:3441->127.0.0.1:65052: wsarecv: An existing connection was forcibly closed by the remote host. 127.0.0.1:65052
+2018-11-20 14:38:24.839 [INF] [SrvNet.go:394] SrvNet server 10601 the connect with 10201 is closed
+2018-11-20 14:38:29.351 [ERR] [Sess.go:147] tcp read message error read tcp 127.0.0.1:3441->127.0.0.1:65070: wsarecv: An existing connection was forcibly closed by the remote host. 127.0.0.1:65070
+2018-11-20 14:38:29.356 [INF] [SrvNet.go:394] SrvNet server 10601 the connect with 10301 is closed
+2018-11-20 14:47:24.671 [INF] [server.go:35] Match Init
+2018-11-20 14:47:24.671 [INF] [server.go:36] ServerID:10601
+2018-11-20 14:47:24.671 [INF] [server.go:22] InnerAddr:127.0.0.1:3089
+2018-11-20 14:47:24.707 [INF] [server.go:67] Match start
+2018-11-20 14:47:24.744 [INF] [TeamMgr.go:71] TeamMgr Init TeamMgr
+2018-11-20 14:47:38.595 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10201
+2018-11-20 14:47:39.811 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10301
+2018-11-20 14:47:40.897 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10401
+2018-11-20 14:52:46.028 [INF] [WaitingScene.go:539] Create space entity, mapid: 1 uniqueId: 0 matchMode: 0 matchTyp: MatchMgrSolo

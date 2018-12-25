@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": 1, 
+        "minvalue": 1, 
+        "value": 20, 
+        "addhp": 1, 
+        "addinterval": 10, 
+        "subenergy": 1, 
+        "subinterval": 4, 
+        "addspeed": 0.0
+    }, 
+    "2": {
+        "id": 2, 
+        "minvalue": 21, 
+        "value": 60, 
+        "addhp": 2, 
+        "addinterval": 10, 
+        "subenergy": 1, 
+        "subinterval": 4, 
+        "addspeed": 0.0
+    }, 
+    "3": {
+        "id": 3, 
+        "minvalue": 61, 
+        "value": 90, 
+        "addhp": 3, 
+        "addinterval": 10, 
+        "subenergy": 1, 
+        "subinterval": 4, 
+        "addspeed": 0.24
+    }, 
+    "4": {
+        "id": 4, 
+        "minvalue": 91, 
+        "value": 100, 
+        "addhp": 4, 
+        "addinterval": 10, 
+        "subenergy": 1, 
+        "subinterval": 4, 
+        "addspeed": 0.56
+    }
+}

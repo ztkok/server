@@ -1,0 +1,30 @@
+{
+    "1": {
+        "id": 1, 
+        "exittime": 7, 
+        "repeattime": 24, 
+        "clicktimes": 10, 
+        "clickrewardType": 2201, 
+        "clickrewardNum": 100, 
+        "clickrewardMailTitle": "召回奖励", 
+        "clickrewardMailContent": "发送好友召回信息成功，请查收奖励", 
+        "callrewardType": 2203, 
+        "callrewardNum": 10, 
+        "callrewardMailTitle": "召回成功奖励", 
+        "callrewardMailContent": "成功召回好友，请查收奖励"
+    }, 
+    "2": {
+        "id": 2, 
+        "exittime": 7, 
+        "repeattime": 24, 
+        "clicktimes": 10, 
+        "clickrewardType": 2201, 
+        "clickrewardNum": 100, 
+        "clickrewardMailTitle": "召回奖励", 
+        "clickrewardMailContent": "发送好友召回信息成功，请查收奖励", 
+        "callrewardType": 2203, 
+        "callrewardNum": 10, 
+        "callrewardMailTitle": "召回成功奖励", 
+        "callrewardMailContent": "成功召回好友，请查收奖励"
+    }
+}

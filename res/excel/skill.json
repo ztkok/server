@@ -1,0 +1,123 @@
+{
+    "1": {
+        "id": 1, 
+        "name": "高阶寻宝", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 1, 
+        "skillTarget": 0, 
+        "active": 1, 
+        "cold": 40, 
+        "skillEffect": "8-0-0-0"
+    }, 
+    "2": {
+        "id": 2, 
+        "name": "中阶寻宝", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 1, 
+        "skillTarget": 0, 
+        "active": 1, 
+        "cold": 50, 
+        "skillEffect": "19-0-0-0"
+    }, 
+    "3": {
+        "id": 3, 
+        "name": "初阶寻宝", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 0, 
+        "skillTarget": 0, 
+        "active": 1, 
+        "cold": 60, 
+        "skillEffect": "20-0-0-0"
+    }, 
+    "4": {
+        "id": 4, 
+        "name": "健壮", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 1, 
+        "skillTarget": 0, 
+        "active": 0, 
+        "cold": 0, 
+        "skillEffect": "9-20-3600-0"
+    }, 
+    "5": {
+        "id": 5, 
+        "name": "嗜血", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 1, 
+        "skillTarget": 0, 
+        "active": 0, 
+        "cold": 0, 
+        "skillEffect": "17-1000-3600-0"
+    }, 
+    "6": {
+        "id": 6, 
+        "name": "老练", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 1, 
+        "skillTarget": 0, 
+        "active": 0, 
+        "cold": 0, 
+        "skillEffect": "17-1001-3600-0"
+    }, 
+    "7": {
+        "id": 7, 
+        "name": "老司机", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 0, 
+        "skillTarget": 0, 
+        "active": 0, 
+        "cold": 0, 
+        "skillEffect": "18-30-3600-0;15-30-3600-0"
+    }, 
+    "8": {
+        "id": 8, 
+        "name": "身手矫健", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 0, 
+        "skillTarget": 0, 
+        "active": 0, 
+        "cold": 0, 
+        "skillEffect": "14-100-3600-0"
+    }, 
+    "9": {
+        "id": 9, 
+        "name": "战地医疗", 
+        "skillType": 0, 
+        "skillRole": "0", 
+        "skillShop": 0, 
+        "skillTarget": 0, 
+        "active": 0, 
+        "cold": 0, 
+        "skillEffect": "10-0-3600-0"
+    }, 
+    "1000": {
+        "id": 1000, 
+        "name": "嗜血屠夫调用", 
+        "skillType": 1, 
+        "skillRole": "0", 
+        "skillShop": 0, 
+        "skillTarget": 0, 
+        "active": 1, 
+        "cold": 0, 
+        "skillEffect": "4-10-60-0"
+    }, 
+    "1001": {
+        "id": 1001, 
+        "name": "老练调用", 
+        "skillType": 1, 
+        "skillRole": "0", 
+        "skillShop": 0, 
+        "skillTarget": 0, 
+        "active": 1, 
+        "cold": 0, 
+        "skillEffect": "13-2-3600-0"
+    }
+}

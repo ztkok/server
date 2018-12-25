@@ -1,0 +1,37 @@
+{
+    "1": {
+        "id": 1, 
+        "talkcontent": "<dir>有动静！", 
+        "sound": "Vo_Command_01"
+    }, 
+    "2": {
+        "id": 2, 
+        "talkcontent": "集合！", 
+        "sound": "Vo_Command_02"
+    }, 
+    "3": {
+        "id": 3, 
+        "talkcontent": "一起上！", 
+        "sound": "Vo_Command_03"
+    }, 
+    "4": {
+        "id": 4, 
+        "talkcontent": "有人躺了，救人。", 
+        "sound": "Vo_Command_04"
+    }, 
+    "5": {
+        "id": 5, 
+        "talkcontent": "我需要帮助！", 
+        "sound": "Vo_Command_05"
+    }, 
+    "6": {
+        "id": 6, 
+        "talkcontent": "大家打开语音。", 
+        "sound": "Vo_Command_08"
+    }, 
+    "7": {
+        "id": 7, 
+        "talkcontent": "老铁，666！", 
+        "sound": "Vo_Command_12"
+    }
+}

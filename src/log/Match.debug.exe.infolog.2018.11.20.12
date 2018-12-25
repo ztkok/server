@@ -1,0 +1,8 @@
+2018-11-20 12:11:49.234 [INF] [server.go:35] Match Init
+2018-11-20 12:11:49.234 [INF] [server.go:36] ServerID:10601
+2018-11-20 12:11:49.234 [INF] [server.go:22] InnerAddr:127.0.0.1:3441
+2018-11-20 12:11:49.286 [INF] [server.go:67] Match start
+2018-11-20 12:11:49.323 [INF] [TeamMgr.go:71] TeamMgr Init TeamMgr
+2018-11-20 12:11:54.143 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10401
+2018-11-20 12:11:54.147 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10201
+2018-11-20 12:12:12.086 [INF] [SrvNet.go:417] SrvNet server 10601  recevice a connect from server 10301

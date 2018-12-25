@@ -1,0 +1,122 @@
+{
+    "1": {
+        "id": 1, 
+        "requirenum": 1, 
+        "taskpool": 1, 
+        "awards": "2204;25|2205;10"
+    }, 
+    "2": {
+        "id": 2, 
+        "requirenum": 1, 
+        "taskpool": 3, 
+        "awards": "2204;50|2205;10"
+    }, 
+    "3": {
+        "id": 3, 
+        "requirenum": 1, 
+        "taskpool": 7, 
+        "awards": "2204;25|2205;5"
+    }, 
+    "4": {
+        "id": 4, 
+        "requirenum": 3, 
+        "taskpool": 8, 
+        "awards": "2204;100|2205;30"
+    }, 
+    "5": {
+        "id": 5, 
+        "requirenum": 1, 
+        "taskpool": 15, 
+        "awards": "2204;50|2205;15"
+    }, 
+    "6": {
+        "id": 6, 
+        "requirenum": 2000, 
+        "taskpool": 6, 
+        "awards": "2204;20|2205;5"
+    }, 
+    "7": {
+        "id": 7, 
+        "requirenum": 1, 
+        "taskpool": 10, 
+        "awards": "2204;35|2205;10"
+    }, 
+    "8": {
+        "id": 8, 
+        "requirenum": 3, 
+        "taskpool": 3, 
+        "awards": "2204;50|2205;15"
+    }, 
+    "9": {
+        "id": 9, 
+        "requirenum": 1800, 
+        "taskpool": 5, 
+        "awards": "2204;25|2205;10"
+    }, 
+    "10": {
+        "id": 10, 
+        "requirenum": 5, 
+        "taskpool": 7, 
+        "awards": "2204;30|2205;10"
+    }, 
+    "11": {
+        "id": 11, 
+        "requirenum": 500, 
+        "taskpool": 9, 
+        "awards": "2204;25|2205;10"
+    }, 
+    "12": {
+        "id": 12, 
+        "requirenum": 3, 
+        "taskpool": 15, 
+        "awards": "2204;100|2205;25"
+    }, 
+    "13": {
+        "id": 13, 
+        "requirenum": 200, 
+        "taskpool": 11, 
+        "awards": "2204;25|2205;10"
+    }, 
+    "14": {
+        "id": 14, 
+        "requirenum": 3, 
+        "taskpool": 12, 
+        "awards": "2204;35|2205;10"
+    }, 
+    "15": {
+        "id": 15, 
+        "requirenum": 1, 
+        "taskpool": 4, 
+        "awards": "2204;100|2205;15"
+    }, 
+    "16": {
+        "id": 16, 
+        "requirenum": 1, 
+        "taskpool": 13, 
+        "awards": "2204;50|2205;15"
+    }, 
+    "17": {
+        "id": 17, 
+        "requirenum": 3, 
+        "taskpool": 16, 
+        "awards": "2204;50|2205;15"
+    }, 
+    "18": {
+        "id": 18, 
+        "requirenum": 10, 
+        "taskpool": 17, 
+        "awards": "2204;25|2205;10"
+    }, 
+    "19": {
+        "id": 19, 
+        "requirenum": 2500, 
+        "taskpool": 18, 
+        "awards": "2204;50|2205;15"
+    }, 
+    "20": {
+        "id": 20, 
+        "requirenum": 200, 
+        "taskpool": 19, 
+        "awards": "2204;75|2205;20"
+    }
+}

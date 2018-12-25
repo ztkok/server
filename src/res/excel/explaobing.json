@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id": 1, 
+        "roundlimit": 5000, 
+        "levellimit": 50, 
+        "value": 150
+    }, 
+    "2": {
+        "id": 2, 
+        "roundlimit": 2000, 
+        "levellimit": 40, 
+        "value": 140
+    }, 
+    "3": {
+        "id": 3, 
+        "roundlimit": 1000, 
+        "levellimit": 30, 
+        "value": 130
+    }, 
+    "4": {
+        "id": 4, 
+        "roundlimit": 500, 
+        "levellimit": 20, 
+        "value": 120
+    }, 
+    "5": {
+        "id": 5, 
+        "roundlimit": 100, 
+        "levellimit": 10, 
+        "value": 110
+    }, 
+    "6": {
+        "id": 6, 
+        "roundlimit": 0, 
+        "levellimit": 100, 
+        "value": 100
+    }
+}

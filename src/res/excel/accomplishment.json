@@ -1,0 +1,272 @@
+{
+    "1": {
+        "id": 1, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 1, 
+        "amount": [
+            30, 
+            200, 
+            1000
+        ]
+    }, 
+    "2": {
+        "id": 2, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 2, 
+        "amount": [
+            10000, 
+            100000, 
+            1000000
+        ]
+    }, 
+    "3": {
+        "id": 3, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 3, 
+        "amount": [
+            50, 
+            500, 
+            1500
+        ]
+    }, 
+    "4": {
+        "id": 4, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 4, 
+        "amount": [
+            10, 
+            100, 
+            250
+        ]
+    }, 
+    "5": {
+        "id": 5, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 5, 
+        "amount": [
+            1, 
+            10, 
+            50
+        ]
+    }, 
+    "6": {
+        "id": 6, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 6, 
+        "amount": [
+            1, 
+            10, 
+            50
+        ]
+    }, 
+    "7": {
+        "id": 7, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 7, 
+        "amount": [
+            1, 
+            10, 
+            50
+        ]
+    }, 
+    "8": {
+        "id": 8, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 8, 
+        "amount": [
+            5, 
+            30, 
+            100
+        ]
+    }, 
+    "9": {
+        "id": 9, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 9, 
+        "amount": [
+            5, 
+            30, 
+            100
+        ]
+    }, 
+    "10": {
+        "id": 10, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 10, 
+        "amount": [
+            5, 
+            30, 
+            100
+        ]
+    }, 
+    "11": {
+        "id": 11, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 11, 
+        "amount": [
+            5, 
+            30, 
+            100
+        ]
+    }, 
+    "12": {
+        "id": 12, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 12, 
+        "amount": [
+            1, 
+            10, 
+            50
+        ]
+    }, 
+    "13": {
+        "id": 13, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 13, 
+        "amount": [
+            1, 
+            10, 
+            50
+        ]
+    }, 
+    "14": {
+        "id": 14, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 14, 
+        "amount": [
+            30, 
+            200, 
+            1000
+        ]
+    }, 
+    "15": {
+        "id": 15, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 15, 
+        "amount": [
+            3, 
+            10, 
+            30
+        ]
+    }, 
+    "16": {
+        "id": 16, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 16, 
+        "amount": [
+            3, 
+            10, 
+            30
+        ]
+    }, 
+    "17": {
+        "id": 17, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 17, 
+        "amount": [
+            3000, 
+            30000, 
+            300000
+        ]
+    }, 
+    "18": {
+        "id": 18, 
+        "experience": [
+            100, 
+            300, 
+            600
+        ], 
+        "mode": 1, 
+        "condition1": 18, 
+        "amount": [
+            1, 
+            100, 
+            500
+        ]
+    }
+}

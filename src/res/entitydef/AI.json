@@ -1,0 +1,113 @@
+{
+    "name": "AI",
+    "props": {
+        "Role": {
+            "type": "uint32",
+            "desc": "角色"
+        },
+		"RoleModel": {
+            "type": "uint32",
+            "desc": "模型id"
+        },
+        "HP": {
+            "type": "uint32",
+            "save" : "0" ,
+            "desc": "血量"
+        },
+        "MaxHP": {
+            "type": "uint32",
+            "save" : "0" ,
+            "desc": "最大血量"
+        },
+        "VehicleProp": {
+            "type": "*protoMsg.VehicleProp",
+            "save" : "0" ,
+            "desc": "载具信息"
+        },
+        "ChracterMapDataInfo": {
+            "type": "*protoMsg.ChracterMapDataInfo",
+            "save" : "0" ,
+            "desc": "武器信息"
+        },
+        "HeadProp": {
+            "type": "*protoMsg.HeadProp",
+            "save" : "0" ,
+            "desc": "头盔"
+        },
+        "BodyProp": {
+            "type": "*protoMsg.BodyProp",
+            "save" : "0" ,
+            "desc": "防弹衣"
+        },
+        "BackPackProp": {
+            "type": "*protoMsg.BackPackProp",
+            "save" : "0" ,
+            "desc": "背包"
+        },
+        "Name": {
+            "type": "string",
+            "desc": "名称"
+        },
+        "GamerType":{
+            "type":"uint32",
+            "desc":"玩家在模式中的类型"
+        },
+		"IsWearingGilley":{
+            "type": "uint32",
+            "desc": "否穿戴吉利服 0表示未穿戴 1表示穿戴"
+        }
+    },
+
+    "server": {
+        "12": {
+            "desc": "Room",
+            "props": [
+                "Role",
+				"RoleModel",
+                "HP",
+                "MaxHP",
+                "VehicleProp",
+                "ChracterMapDataInfo",
+                "HeadProp",
+                "BodyProp",
+                "BackPackProp",
+                "Name",
+                "GamerType",
+				"IsWearingGilley"
+            ]
+        }
+    },
+
+    "client": {
+        "desc": "客户端关注的属性，需要包含在Space所在的服务器中",
+        "props": [
+            "Role",
+			"RoleModel",
+            "HP",
+            "MaxHP",
+            "VehicleProp",
+            "ChracterMapDataInfo",
+            "HeadProp",
+            "BodyProp",
+            "BackPackProp",
+            "Name",
+            "GamerType",
+			"IsWearingGilley"
+        ]
+    },
+
+    "mrole": {
+        "desc": "主角自己关注的属性，需要包含在Space所在的服务器中",
+        "props": [
+            "HP",
+            "MaxHP",
+            "VehicleProp",
+            "ChracterMapDataInfo",
+            "HeadProp",
+            "BodyProp",
+            "BackPackProp",
+			"IsWearingGilley"
+        ]
+    }
+
+}

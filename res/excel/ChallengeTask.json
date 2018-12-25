@@ -1,0 +1,541 @@
+{
+    "1": {
+        "id": 1, 
+        "taskpool": 1, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "6": {
+        "id": 6, 
+        "taskpool": 2, 
+        "requirenum": 3, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "11": {
+        "id": 11, 
+        "taskpool": 3, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "18": {
+        "id": 18, 
+        "taskpool": 4, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "21": {
+        "id": 21, 
+        "taskpool": 4, 
+        "requirenum": 10, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "26": {
+        "id": 26, 
+        "taskpool": 5, 
+        "requirenum": 3000, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "36": {
+        "id": 36, 
+        "taskpool": 7, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "45": {
+        "id": 45, 
+        "taskpool": 8, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "46": {
+        "id": 46, 
+        "taskpool": 9, 
+        "requirenum": 100, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "49": {
+        "id": 49, 
+        "taskpool": 9, 
+        "requirenum": 1000, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "55": {
+        "id": 55, 
+        "taskpool": 10, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "58": {
+        "id": 58, 
+        "taskpool": 10, 
+        "requirenum": 10, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "70": {
+        "id": 70, 
+        "taskpool": 12, 
+        "requirenum": 5, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "75": {
+        "id": 75, 
+        "taskpool": 13, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "81": {
+        "id": 81, 
+        "taskpool": 15, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "84": {
+        "id": 84, 
+        "taskpool": 15, 
+        "requirenum": 10, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "88": {
+        "id": 88, 
+        "taskpool": 16, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "91": {
+        "id": 91, 
+        "taskpool": 16, 
+        "requirenum": 10, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "105": {
+        "id": 105, 
+        "taskpool": 20, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "110": {
+        "id": 110, 
+        "taskpool": 21, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "113": {
+        "id": 113, 
+        "taskpool": 22, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "118": {
+        "id": 118, 
+        "taskpool": 23, 
+        "requirenum": 1, 
+        "awards": "3000031;1", 
+        "Pic": "store/book.png"
+    }, 
+    "119": {
+        "id": 119, 
+        "taskpool": 24, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "122": {
+        "id": 122, 
+        "taskpool": 24, 
+        "requirenum": 10, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "124": {
+        "id": 124, 
+        "taskpool": 25, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "125": {
+        "id": 125, 
+        "taskpool": 26, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "132": {
+        "id": 132, 
+        "taskpool": 27, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "135": {
+        "id": 135, 
+        "taskpool": 28, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "138": {
+        "id": 138, 
+        "taskpool": 29, 
+        "requirenum": 1, 
+        "awards": "704310;1", 
+        "Pic": "store/book.png"
+    }, 
+    "142": {
+        "id": 142, 
+        "taskpool": 30, 
+        "requirenum": 10, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "143": {
+        "id": 143, 
+        "taskpool": 31, 
+        "requirenum": 3, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "149": {
+        "id": 149, 
+        "taskpool": 32, 
+        "requirenum": 1, 
+        "awards": "104203;1", 
+        "Pic": "store/book.png"
+    }, 
+    "157": {
+        "id": 157, 
+        "taskpool": 33, 
+        "requirenum": 3, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "159": {
+        "id": 159, 
+        "taskpool": 34, 
+        "requirenum": 3, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "162": {
+        "id": 162, 
+        "taskpool": 35, 
+        "requirenum": 1, 
+        "awards": "104204;1", 
+        "Pic": "store/book.png"
+    }, 
+    "166": {
+        "id": 166, 
+        "taskpool": 36, 
+        "requirenum": 1, 
+        "awards": "2201;20000", 
+        "Pic": "store/book.png"
+    }, 
+    "172": {
+        "id": 172, 
+        "taskpool": 37, 
+        "requirenum": 1, 
+        "awards": "2209;5000", 
+        "Pic": "store/book.png"
+    }, 
+    "175": {
+        "id": 175, 
+        "taskpool": 38, 
+        "requirenum": 10, 
+        "awards": "3001716;1", 
+        "Pic": "store/book.png"
+    }, 
+    "178": {
+        "id": 178, 
+        "taskpool": 39, 
+        "requirenum": 5000, 
+        "awards": "2203;1000", 
+        "Pic": "store/book.png"
+    }, 
+    "180": {
+        "id": 180, 
+        "taskpool": 40, 
+        "requirenum": 3, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "183": {
+        "id": 183, 
+        "taskpool": 41, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "187": {
+        "id": 187, 
+        "taskpool": 42, 
+        "requirenum": 1, 
+        "awards": "4100;20", 
+        "Pic": "store/book.png"
+    }, 
+    "189": {
+        "id": 189, 
+        "taskpool": 43, 
+        "requirenum": 500, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "193": {
+        "id": 193, 
+        "taskpool": 44, 
+        "requirenum": 1, 
+        "awards": "104202;1", 
+        "Pic": "store/book.png"
+    }, 
+    "195": {
+        "id": 195, 
+        "taskpool": 45, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "201": {
+        "id": 201, 
+        "taskpool": 46, 
+        "requirenum": 1, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "203": {
+        "id": 203, 
+        "taskpool": 47, 
+        "requirenum": 3, 
+        "awards": "2212;20", 
+        "Pic": "store/book.png"
+    }, 
+    "210": {
+        "id": 210, 
+        "taskpool": 20, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "211": {
+        "id": 211, 
+        "taskpool": 21, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "212": {
+        "id": 212, 
+        "taskpool": 24, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "213": {
+        "id": 213, 
+        "taskpool": 25, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "214": {
+        "id": 214, 
+        "taskpool": 28, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "215": {
+        "id": 215, 
+        "taskpool": 31, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "216": {
+        "id": 216, 
+        "taskpool": 34, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "217": {
+        "id": 217, 
+        "taskpool": 39, 
+        "requirenum": 1000, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "218": {
+        "id": 218, 
+        "taskpool": 40, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "219": {
+        "id": 219, 
+        "taskpool": 43, 
+        "requirenum": 100, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "220": {
+        "id": 220, 
+        "taskpool": 47, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "221": {
+        "id": 221, 
+        "taskpool": 3, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "222": {
+        "id": 222, 
+        "taskpool": 4, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "223": {
+        "id": 223, 
+        "taskpool": 7, 
+        "requirenum": 100, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "224": {
+        "id": 224, 
+        "taskpool": 8, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "225": {
+        "id": 225, 
+        "taskpool": 13, 
+        "requirenum": 3, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "226": {
+        "id": 226, 
+        "taskpool": 18, 
+        "requirenum": 10000, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "227": {
+        "id": 227, 
+        "taskpool": 33, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "228": {
+        "id": 228, 
+        "taskpool": 30, 
+        "requirenum": 6, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "229": {
+        "id": 229, 
+        "taskpool": 41, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "230": {
+        "id": 230, 
+        "taskpool": 47, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "231": {
+        "id": 231, 
+        "taskpool": 15, 
+        "requirenum": 20, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "232": {
+        "id": 232, 
+        "taskpool": 12, 
+        "requirenum": 10, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "233": {
+        "id": 233, 
+        "taskpool": 10, 
+        "requirenum": 50, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "234": {
+        "id": 234, 
+        "taskpool": 6, 
+        "requirenum": 50000, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "235": {
+        "id": 235, 
+        "taskpool": 19, 
+        "requirenum": 2000, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "236": {
+        "id": 236, 
+        "taskpool": 22, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "237": {
+        "id": 237, 
+        "taskpool": 27, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "238": {
+        "id": 238, 
+        "taskpool": 46, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }, 
+    "239": {
+        "id": 239, 
+        "taskpool": 47, 
+        "requirenum": 1, 
+        "awards": "2212;5", 
+        "Pic": "store/book.png"
+    }
+}
